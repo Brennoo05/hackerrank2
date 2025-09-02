@@ -32,7 +32,7 @@ function readLine() {
  */
 
 function compareTriplets(a, b) {
-      let alice_pontos = 0;
+      let alice_pontos = 0
       let bob_pontos = 0
    
 
@@ -63,3 +63,4 @@ function main() {
 
     ws.end();
 }
+
